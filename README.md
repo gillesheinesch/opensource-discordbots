@@ -1,6 +1,6 @@
 # Open-Source Discord Bots
 
-> Curated list of awesome open-source Discord Bots 
+> Curated list of awesome open-source Discord Bots
 
 ## discord.js ([GitHub](https://github.com/discordjs/discord.js), [Website/Documentation](https://discord.js.org/#/), [Guide](https://discordjs.guide/))
 
@@ -17,8 +17,10 @@
 * [Discord-Datamining](https://github.com/Discord-Datamining/Discord-Datamining) - Datamining Discord changes from the js files
 * [discord-giveaway-bot](https://github.com/fekt/discord-giveaway-bot) - Very simple giveaway bot made with discord.js
 
-## Discord.Net ([Github](https://github.com/RogueException/Discord.Net))
+<!-- ## Discord.Net ([Github](https://github.com/RogueException/Discord.Net))
+ -->
 
+### Feel free adding your Discord Bot. If the library of your Discord Bot doesn't exist, just add it. You can find more information on contributing [here](https://github.com/gillesheinesch/opensource-discordbots/blob/master/CONTRIBUTING.md).
 
 ## License
 

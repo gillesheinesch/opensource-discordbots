@@ -1,2 +1,27 @@
-# opensource-discordbots
-Curated list of awesome open-source Discord Bots
+# Open-Source Discord Bots
+
+> Curated list of awesome open-source Discord Bots 
+
+## discord.js ([GitHub](https://github.com/discordjs/discord.js), [Website/Documentation](https://discord.js.org/#/), [Guide](https://discordjs.guide/))
+
+* [Chalda DiscordBot](https://github.com/chalda/DiscordBot) - A chat bot for discord app based off discord.js
+* [Evobot](https://github.com/eritislami/evobot) - 🤖 EvoBot is a Discord Music Bot built with discord.js & uses Command Handler from discordjs.guide
+* [automod-bot](https://github.com/Khanmanan/automod-bot) - Moderation bot discord.js
+* [CalypsoBot](https://github.com/sabattle/CalypsoBot) - A fully customizable bot built with discord.js
+* [Dorito bot](https://github.com/Aaronidk/Dorito-bot-discord.js) - A multipurpose Discord bot with many NSFW and fun commands as well as utility, moderation SFW commands and more.
+* [Musicbot](https://github.com/developerCodex/musicbot) - Discord.JS Music Bot
+* [discord-music-bot](https://github.com/mindaugaskasp/discord-music-bot) - Node.js / Discord.js / Discord.js-Commando based bot solely for the purpose of playing audio stream to Discord 
+* [Economybot](https://github.com/chxlls/economybot) - Discord.js Economy bot using Quick.db (DJS V11)
+* [Komugari](https://github.com/Mitorisia/Komugari) - A simple, multi-functional Discord bot written in Discord.js
+* [Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot) - Very simple discord music bot with the discord.js with Song Name playing. It can able to play music with the song name 
+* [Discord-Datamining](https://github.com/Discord-Datamining/Discord-Datamining) - Datamining Discord changes from the js files
+* [discord-giveaway-bot](https://github.com/fekt/discord-giveaway-bot) - Very simple giveaway bot made with discord.js
+
+## Discord.Net ([Github](https://github.com/RogueException/Discord.Net))
+
+
+## License
+
+![CC0 badge](https://upload.wikimedia.org/wikipedia/commons/f/f9/CC-Zero-badge.svg)
+
+This project is under the [CC0 1.0 license](https://creativecommons.org/publicdomain/zero/1.0/)

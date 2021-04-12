@@ -24,7 +24,7 @@
 * [discord-giveaway-bot](https://github.com/fekt/discord-giveaway-bot) - Very simple giveaway bot made with discord.js
 * [16Bits](https://github.com/pixdevgithub/16Bits) - Multipurpose Guildbounded Bot with fun, moderation, utilities, animal, etc. commands.
 
- ## discord.py ([GitHub](https://github.com/Rapptz/discord.py), [Website/Documentation](https://discordpy.readthedocs.io/en/stable/), [Guide](https://discordpy.readthedocs.io/en/stable/api.html))
+## discord.py ([GitHub](https://github.com/Rapptz/discord.py), [Website/Documentation](https://discordpy.readthedocs.io/en/stable/), [Guide](https://discordpy.readthedocs.io/en/stable/api.html))
 * [Translator101](https://github.com/JohanSanSebastian/Translator101) - A translator bot made with discord.py and the google-trans library.
 
 ### Feel free to add your Discord Bot. If the library of your Discord Bot doesn't exist, just add it. You can find more information on contributing [here](https://github.com/gillesheinesch/opensource-discordbots/blob/master/CONTRIBUTING.md).

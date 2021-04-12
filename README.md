@@ -10,6 +10,7 @@
 ## discord.js ([GitHub](https://github.com/discordjs/discord.js), [Website/Documentation](https://discord.js.org/#/), [Guide](https://discordjs.guide/))
 
 * [Chalda DiscordBot](https://github.com/chalda/DiscordBot) - A chat bot for discord app based off discord.js
+* [Heptagram](https://github.com/Heptagram-Bot/Heptagram) - The open-source discord bot with the goal to be the single needed bot for any server.
 * [Evobot](https://github.com/eritislami/evobot) - 🤖 EvoBot is a Discord Music Bot built with discord.js & uses Command Handler from discordjs.guide
 * [automod-bot](https://github.com/Khanmanan/automod-bot) - Moderation bot discord.js
 * [CalypsoBot](https://github.com/sabattle/CalypsoBot) - A fully customizable bot built with discord.js

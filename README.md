@@ -22,6 +22,7 @@
 * [Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot) - Very simple discord music bot with the discord.js with Song Name playing. It can able to play music with the song name 
 * [Discord-Datamining](https://github.com/Discord-Datamining/Discord-Datamining) - Datamining Discord changes from the js files
 * [discord-giveaway-bot](https://github.com/fekt/discord-giveaway-bot) - Very simple giveaway bot made with discord.js
+* [16Bits](https://github.com/pixdevgithub/16Bits) - Multipurpose Guildbounded Bot with fun, moderation, utilities, animal, etc. commands.
 
 <!-- ## Discord.Net ([Github](https://github.com/RogueException/Discord.Net))
  -->

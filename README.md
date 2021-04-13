@@ -26,6 +26,7 @@
 
 ## discord.py ([GitHub](https://github.com/Rapptz/discord.py), [Website/Documentation](https://discordpy.readthedocs.io/en/stable/), [Guide](https://discordpy.readthedocs.io/en/stable/api.html))
 * [Translator101](https://github.com/JohanSanSebastian/Translator101) - A translator bot made with discord.py and the google-trans library.
+* [ServerKit](https://github.com/BugGlitchy64/ServerKit) - A general purpose bot that combats bots with paywalled features and helps reduce bots needed in a server.
 
 ### Feel free to add your Discord Bot. If the library of your Discord Bot doesn't exist, just add it. You can find more information on contributing [here](https://github.com/gillesheinesch/opensource-discordbots/blob/master/CONTRIBUTING.md).
 

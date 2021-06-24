@@ -5,6 +5,7 @@
 ## Java Discord API - JDA ([GitHub](https://github.com/DV8FromTheWorld/JDA), [Documentation](https://ci.dv8tion.net/job/JDA/javadoc/index.html), [Wiki](https://github.com/DV8FromTheWorld/JDA/wiki))
 
 * [LupoBot](https://github.com/LupoBot/LupoBot) - An all-in-all Discord bot that offers many cool new features in plugins which you can install to your Discord server
+* [Clancy](https://github.com/brendonmiranda/clancy) - A Discord Music Bot made in Spring Boot and Java which you can host and run yourself
 
 
 ## discord.js ([GitHub](https://github.com/discordjs/discord.js), [Website/Documentation](https://discord.js.org/#/), [Guide](https://discordjs.guide/))

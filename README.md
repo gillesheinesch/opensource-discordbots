@@ -7,6 +7,9 @@
 * [LupoBot](https://github.com/LupoBot/LupoBot) - An all-in-all Discord bot that offers many cool new features in plugins which you can install to your Discord server
 * [Clancy](https://github.com/brendonmiranda/clancy) - A Discord Music Bot made in Spring Boot and Java which you can host and run yourself
 
+## eris ([Github](https://github.com/abalabahaha/eris), [Website/Documentation](https://abal.moe/Eris/))
+
+* [Star](https://github.com/stardiscordbot/starbot) [(https://www.star-bot.tk)] - Helping servers grow exponentially with a simple solution. Make your server active and entertain your community with a simple solution.
 
 ## discord.js ([GitHub](https://github.com/discordjs/discord.js), [Website/Documentation](https://discord.js.org/#/), [Guide](https://discordjs.guide/))
 

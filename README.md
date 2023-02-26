@@ -4,34 +4,25 @@
 
 ## Java Discord API - JDA ([GitHub](https://github.com/DV8FromTheWorld/JDA), [Documentation](https://ci.dv8tion.net/job/JDA/javadoc/index.html), [Wiki](https://github.com/DV8FromTheWorld/JDA/wiki))
 
-* [LupoBot](https://github.com/LupoBot/LupoBot) - An all-in-all Discord bot that offers many cool new features in plugins which you can install to your Discord server
 * [Clancy](https://github.com/brendonmiranda/clancy) - A Discord Music Bot made in Spring Boot and Java which you can host and run yourself
-
-## eris ([Github](https://github.com/abalabahaha/eris), [Website/Documentation](https://abal.moe/Eris/))
-
-* [Star](https://github.com/stardiscordbot/starbot) [(https://www.star-bot.tk)] - Helping servers grow exponentially with a simple solution. Make your server active and entertain your community with a simple solution.
 
 ## discord.js ([GitHub](https://github.com/discordjs/discord.js), [Website/Documentation](https://discord.js.org/#/), [Guide](https://discordjs.guide/))
 
 * [Chalda DiscordBot](https://github.com/chalda/DiscordBot) - A chat bot for discord app based off discord.js
-* [Heptagram](https://github.com/Heptagram-Bot/Heptagram) - The open-source discord bot with the goal to be the single needed bot for any server.
+* [Heptagram](https://github.com/Heptagram-Bot/Heptagram) - The open-source discord bot with the goal to be the single needed bot for any server. **(DEPRECATED)**
 * [Evobot](https://github.com/eritislami/evobot) - 🤖 EvoBot is a Discord Music Bot built with discord.js & uses Command Handler from discordjs.guide
 * [automod-bot](https://github.com/Khanmanan/automod-bot) - Moderation bot discord.js
 * [CalypsoBot](https://github.com/sabattle/CalypsoBot) - A fully customizable bot built with discord.js
-* [Dorito bot](https://github.com/Aaronidk/Dorito-bot-discord.js) - A multipurpose Discord bot with many NSFW and fun commands as well as utility, moderation SFW commands and more.
-* [Musicbot](https://github.com/developerCodex/musicbot) - Discord.JS Music Bot
 * [discord-music-bot](https://github.com/mindaugaskasp/discord-music-bot) - Node.js / Discord.js / Discord.js-Commando based bot solely for the purpose of playing audio stream to Discord 
 * [Economybot](https://github.com/chxlls/economybot) - Discord.js Economy bot using Quick.db (DJS V11)
-* [Komugari](https://github.com/Mitorisia/Komugari) - A simple, multi-functional Discord bot written in Discord.js
+* [Komugari](https://github.com/Mitorisia/Komugari) - A simple, multi-functional Discord bot written in Discord.js **(DEPRECATED)**
 * [Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot) - Very simple discord music bot with the discord.js with Song Name playing. It can able to play music with the song name 
-* [Discord-Datamining](https://github.com/Discord-Datamining/Discord-Datamining) - Datamining Discord changes from the js files
-* [discord-giveaway-bot](https://github.com/fekt/discord-giveaway-bot) - Very simple giveaway bot made with discord.js
-* [16Bits](https://github.com/pixdevgithub/16Bits) - Multipurpose Guildbounded Bot with fun, moderation, utilities, animal, etc. commands.
+* [discord-giveaway-bot](https://github.com/fekt/discord-giveaway-bot) - Very simple giveaway bot made with discord.js **(DEPRECATED)**
 
 ## discord.py [DEPRECATED] ([GitHub](https://github.com/Rapptz/discord.py), [Website/Documentation](https://discordpy.readthedocs.io/en/stable/), [Guide](https://discordpy.readthedocs.io/en/stable/api.html))
 *Note: This library has been discontinued, it is advised you look into alternatives for using Python for bots!*
 * [Translator101](https://github.com/JohanSanSebastian/Translator101) - A translator bot made with discord.py and the google-trans library.
-* [ServerKit](https://github.com/BugGlitchy64/ServerKit) - A general purpose bot that combats bots with paywalled features and helps reduce bots needed in a server.
+* [ServerKit](https://github.com/BugGlitchy64/ServerKit) - A general purpose bot that combats bots with paywalled features and helps reduce bots needed in a server. **(DEPRECATED)**
 
 ## Discord.NET ([GitHub](https://github.com/discord-net/Discord.Net), [Website/Documentation](https://docs.stillu.cc/index.html), [Guide](https://docs.stillu.cc/guides/introduction/intro.html))
 * [discord-event-bot](https://github.com/Kreisverkehr/discord-event-bot) - A bot that halps planning events like raids or meetings inside discord.

@@ -17,7 +17,6 @@
 * [Economybot](https://github.com/chxlls/economybot) - Discord.js Economy bot using Quick.db (DJS V11)
 * [Komugari](https://github.com/Mitorisia/Komugari) - A simple, multi-functional Discord bot written in Discord.js **(DEPRECATED)**
 * [Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot) - Very simple discord music bot with the discord.js with Song Name playing. It can able to play music with the song name 
-* [Discord-Datamining](https://github.com/Discord-Datamining/Discord-Datamining) - Datamining Discord changes from the js files
 * [discord-giveaway-bot](https://github.com/fekt/discord-giveaway-bot) - Very simple giveaway bot made with discord.js **(DEPRECATED)**
 
 ## discord.py [DEPRECATED] ([GitHub](https://github.com/Rapptz/discord.py), [Website/Documentation](https://discordpy.readthedocs.io/en/stable/), [Guide](https://discordpy.readthedocs.io/en/stable/api.html))
